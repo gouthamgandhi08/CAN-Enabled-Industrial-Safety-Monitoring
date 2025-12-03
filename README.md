@@ -80,18 +80,18 @@ Node3 (Safety)┘
 ---
 
 ## 📷 Project Images
-|---------------------------------------------------------|
+
 | Full Hardware Setup                                     |
 |---------------------------------------------------------|
-| ![Project Setup](images/project-setup.jpg)              |
-|---------------------------------------------------------|
+| ![Project Setup](images/project_setup.jpg)              |
+
 | Node 1 – RFID              | Node 2 – Environment       |
 |----------------------------|----------------------------|
-| ![Node1](images/node1.jpg) | ![Node2](images/node2.jpg) |
+| ![Node1](images/node2.jpg) | ![Node2](images/node3.jpg) |
 
 | Node 3 – Safety            | Node 4 – Master LCD        |
 |----------------------------|----------------------------|
-| ![Node3](images/node3.jpg) | ![Node4](images/node4.jpg) |
+| ![Node3](images/node1.jpg) | ![Node4](images/node4.jpg) |
 
 ---
 
