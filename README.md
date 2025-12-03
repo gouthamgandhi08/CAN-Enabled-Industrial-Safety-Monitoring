@@ -95,6 +95,15 @@ Node3 (Safety)┘
 
 ---
 
+## 🎥 Project Demo Videos
+
+### 🔹 Full System Demonstration
+[![Demo Video](https://img.youtube.com/vi/a3cavFhzKxo/0.jpg)](https://youtu.be/a3cavFhzKxo)
+
+### 🔹 Monitoring LCD Control Video
+[![LCD Monitoring Video](https://img.youtube.com/vi/Nik0eR7jDHY/0.jpg)](https://youtu.be/Nik0eR7jDHY)
+
+---
 ## 🚀 Future Enhancements
 - IoT / cloud dashboard for monitoring
 - CAN-FD upgrade for higher bandwidth
